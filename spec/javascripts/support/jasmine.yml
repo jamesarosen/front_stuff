@@ -12,7 +12,8 @@
 #
 src_files:
   - vendor/assets/javascripts/**/*.js
-  - lib/assets/javascripts/**/*.js
+  - lib/assets/javascripts/front_stuff.js
+  - lib/assets/javascripts/front_stuff/**/*.js
 
 # stylesheets
 #

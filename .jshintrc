@@ -1,5 +1,5 @@
 {
-  "predef":    [ "describe", "it", "beforeEach", "afterEach", "expect", "spyOn" ],
+  "predef":    [ "describe", "it", "beforeEach", "afterEach", "expect", "spyOn", "FrontStuff" ],
 
   "adsafe":   false,
   "bitwise":  true,
